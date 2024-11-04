@@ -1,10 +1,10 @@
 import React from 'react';
-import PythonLogo from '../assets/Python.png';
-import HTMLLogo from '../assets/HTML5.png';
-import CSSLogo from '../assets/CSS3.png';
-import JavaScriptLogo from '../assets/JavaScript 5.png';
-import ReactLogo from '../assets/React.png';
-import VueLogo from '../assets/Vue.png';
+import PythonLogo from '../../public/assets/Python.png';
+import HTMLLogo from '../../public/assets/HTML5.png';
+import CSSLogo from '../../public/assets/CSS3.png';
+import JavaScriptLogo from '../../public/assets/JavaScript 5.png';
+import ReactLogo from '../../public/assets/React.png';
+import VueLogo from '../../public/assets/Vue.png';
 
 
 function MySkills() {

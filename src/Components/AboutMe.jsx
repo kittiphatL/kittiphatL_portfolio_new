@@ -18,7 +18,7 @@ function AboutMe() {
       <div className="flex flex-col items-center space-y-4">
         <img 
           className="rounded-full w-40 h-auto max-w-xs" 
-          src="../src/assets/My Avatar.jpeg" 
+          src="/assets/My Avatar.jpeg" 
           alt="My Avatar" 
         />
         <div className="text-center">
