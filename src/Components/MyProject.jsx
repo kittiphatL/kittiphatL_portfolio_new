@@ -16,10 +16,10 @@ function MyProject() {
       <div className="mt-8">
         <ProjectCard
           images={[
-            "src/assets/ProjectSandbox1.png",
-            "src/assets/ProjectSandbox2.png",
-            "src/assets/ProjectSandbox3.png",
-            "src/assets/ProjectSandbox4.png"
+            "../src/assets/ProjectSandbox1.png",
+            "../src/assets/ProjectSandbox2.png",
+            "../src/assets/ProjectSandbox3.png",
+            "../src/assets/ProjectSandbox4.png"
           ]}
           title="Skooldio E-commerce Project Sandbox"  
         />
